@@ -7,14 +7,21 @@
 <p align="left">Originally from Italy, I've lived in Germany, Portugal and decided to put down roots in Manchester where I've spent the past 5 years. I've initially worked in customer service and finance, but when I was made redundant in 2020 I decided to step it up and finally chase what had been my calling for a long time and study software development.</p>
 
 **Stack**<br>
+<img src="./c.png" width="80" height="auto">
+<img src="./css.png" width="80" height="auto">
+<img src="./html.png" width="80" height="auto">
+<img src="./java.png" width="80" height="auto">
+<img src="./jquery.png" width="80" height="auto">
+<img src="./js.png" width="80" height="auto">
+<img src="./node.png" width="80" height="auto">
+<img src="./php.png" width="80" height="auto">
+<img src="./python.png" width="80" height="auto">
+<img src="./react.png" width="80" height="auto">
+
 **GitHub Stats**<br>
 
+<p>Visits:</p>
 <img width="20%" src="https://profile-counter.glitch.me/{vannucci-dev}/count.svg" />
-
-<details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=vannucci-dev&theme=xcode" /></p>
-</details>
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vannucci-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
