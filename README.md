@@ -1,6 +1,6 @@
 <img src="./Thur.svg">
 <a href="https://twitter.com/vannucci-dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/vannucci-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; 
-<a href="https://www.vannuci-dev.com"><img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white"></img></a>&nbsp;&nbsp;
+<a href="https://www.vannucci-dev.com"><img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white"></img></a>&nbsp;&nbsp;
 
 <p align="left">Self-taught full-stack developer with a passion for new technologies, problem solving and noodles 🍜. Dreaming of turning what is now an everyday passion into a career. </p>
 
