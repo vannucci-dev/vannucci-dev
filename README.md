@@ -2,9 +2,9 @@
 <a href="https://twitter.com/vannucci-dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/vannucci-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; 
 <a href="https://www.vannucci-dev.com"><img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white"></img></a>&nbsp;&nbsp;
 
-<p align="left">Self-taught full-stack developer with a passion for new technologies, problem solving and noodles 🍜. Dreaming of turning what is now an everyday passion into a career. </p>
+<p align="left">Self-taught full-stack developer with a passion for new technologies, problem solving and noodles 🍜. </p>
 
-<p align="left">Originally from Italy, I've lived in Germany, Portugal and decided to put down roots in Manchester where I've spent the past 5 years. I've initially worked in customer service and finance, but when I was made redundant in 2020 I decided to step it up and finally chase what had been my calling for a long time and study software development.</p>
+<p align="left">Originally from Italy, I've lived in Germany, Portugal and decided to put down roots in Manchester where I've spent the past 5 years. I've initially worked in customer service and finance, but when I was made redundant in 2020 I decided to step it up and finally chase what had been my calling for a long time and study software development leading to my current role as fullstack developer.</p>
 
 **Stack**<br>
 <img src="./c.png" width="80" height="auto">
